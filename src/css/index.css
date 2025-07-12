@@ -1,0 +1,7 @@
+ul {
+  text-align: center;
+  font-size: 50px;
+}
+li:hover {
+  color: blueviolet;
+}
